@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: staff-service
-        image: bhup0006/bestbuystaffservice:latest
+        image: bhup0006/bestbuystaffservice:Latest
         ports:
         - containerPort: 5000
 
